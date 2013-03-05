@@ -21,3 +21,7 @@ The base box for this setup is an opinionated Debian Squeeze 64bit Linux install
 * RVM with Ruby 1.9.3p362 installed
 
 We use Ruby for our Thor build scripts, and Node.js to compile CoffeeScripts.
+
+## Blog post from fifthroom explaining how to use
+
+[http://fifthroomcreative.com/archives/blog/2013/02/getting-started-with-vagrant](http://fifthroomcreative.com/archives/blog/2013/02/getting-started-with-vagrant)
